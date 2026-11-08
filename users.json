@@ -1,0 +1,40 @@
+{
+    "status": "success",
+    "users": [
+        {
+            "id": 101,
+            "name": "Rahul",
+            "age": 22,
+            "active": true,
+            "department": "IT"
+        },
+        {
+            "id": 102,
+            "name": "Amit",
+            "age": 24,
+            "active": true,
+            "department": "HR"
+        },
+        {
+            "id": 103,
+            "name": "Priya",
+            "age": 21,
+            "active": false,
+            "department": "IT"
+        },
+        {
+            "id": 104,
+            "name": "Sneha",
+            "age": 25,
+            "active": true,
+            "department": "Finance"
+        },
+        {
+            "id": 105,
+            "name": "Rohan",
+            "age": 23,
+            "active": false,
+            "department": "HR"
+        }
+    ]
+}
